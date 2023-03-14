@@ -495,11 +495,11 @@ Declaremos las variables con diferentes tipos de datos. Para declarar una variab
 
     // Declarando variables con valores numéricos
     let edad = 100 // edad en años
-    const constante = 9,81 // gravedad terrestre en m/s2
-    const puntoDeEbullición  = 100 // punto de ebullición del agua, temperatura en oC
+    const gravedad = 9.81 // gravedad terrestre en m/s2
+    const puntoDeEbullicion  = 100 // punto de ebullición del agua, temperatura en oC
     const PI = 3.14 // constante geométrica
 
-    console.log(gravedad, punto de ebullición, PI)
+    console.log(gravedad, puntoDeEbullicion, PI)
 
 
     9.81 100 3.14
